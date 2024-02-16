@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yapona-kuhnya/static/css/main.51f69492.chunk.css",
+    "main.js": "/yapona-kuhnya/static/js/main.06f73a3a.chunk.js",
+    "main.js.map": "/yapona-kuhnya/static/js/main.06f73a3a.chunk.js.map",
+    "runtime-main.js": "/yapona-kuhnya/static/js/runtime-main.21aba9bb.js",
+    "runtime-main.js.map": "/yapona-kuhnya/static/js/runtime-main.21aba9bb.js.map",
+    "static/js/2.2624f038.chunk.js": "/yapona-kuhnya/static/js/2.2624f038.chunk.js",
+    "static/js/2.2624f038.chunk.js.map": "/yapona-kuhnya/static/js/2.2624f038.chunk.js.map",
+    "index.html": "/yapona-kuhnya/index.html",
+    "static/css/main.51f69492.chunk.css.map": "/yapona-kuhnya/static/css/main.51f69492.chunk.css.map",
+    "static/js/2.2624f038.chunk.js.LICENSE.txt": "/yapona-kuhnya/static/js/2.2624f038.chunk.js.LICENSE.txt",
+    "static/media/sushi.a2b4b921.jpg": "/yapona-kuhnya/static/media/sushi.a2b4b921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21aba9bb.js",
+    "static/js/2.2624f038.chunk.js",
+    "static/css/main.51f69492.chunk.css",
+    "static/js/main.06f73a3a.chunk.js"
+  ]
+}
